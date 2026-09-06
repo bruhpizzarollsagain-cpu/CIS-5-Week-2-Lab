@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CISweek2lab/CISweek2lab.vcxproj" />
+  <Project Path="../../../../../../source/repos/CISweek2lab/CISweek2lab/CISweek2lab.vcxproj" Id="77f20cdc-9240-4f83-a68c-d84b51c602aa" />
 </Solution>
